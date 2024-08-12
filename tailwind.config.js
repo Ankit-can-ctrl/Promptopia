@@ -14,6 +14,10 @@ module.exports = {
         "custom-gradient":
           "linear-gradient(338deg, rgba(163,181,2,1) 0%, rgba(130,214,79,1) 44%, rgba(194,255,178,1) 100%)",
       },
+      fontFamily: {
+        Head: ["Encode Sans SC", "sans-serif"],
+        Sub: ["Mali", "cursive"],
+      },
     },
   },
   plugins: [],
